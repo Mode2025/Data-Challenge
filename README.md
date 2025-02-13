@@ -2,7 +2,7 @@
 The challenge is open to everyone, however only workshop participants will be eligible for prizes.  To participate in the data challenge, either register for the event, or send an email to the organizers with your name. In the end we will invite everyone to give a short summary slide of their approach, which will then be discussed at the workshop and distributed to non-registrants. 
 
 ### The setting
-A scenario for an initial manned mission to Mars involves a 400-day Cruise Phase to and from the planet.  The cruise phase poses a significant problem due to the cumulative effects of exposure to cosmic and solar radiation.  This challenge remains unresolved.
+A scenario for an initial manned mission to Mars involves a 400-day cruise phase to and from the planet.  The cruise phase poses a significant problem due to the cumulative effects of exposure to cosmic and solar radiation.  This challenge remains unresolved.
  
 ### The physics
 Without the protection of earth's magnetosphere, the astronauts aboard future missions to Mars will be shielded only by the spacecraft itself.  A dose of 100 milliSieverts per year is known to increase cancer risk and other illnesses.  Radiation workers on earth are limited to 50 mSv per year.  Six months aboard the ISS exposes a crewmember to 72mSv, dangerously close to the limit.
