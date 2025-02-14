@@ -14,7 +14,7 @@ The radiation hazard comes from two sources:  1.  Galactic cosmic rays, which ar
 ### The task
 Your task is to develop the lightest spacecraft possible while keeping the total 400-day astronaut exposure to under 100 mSv.  The internal spacecraft volume must be 100m3.  The hull material, thickness, and shape are up to you. 
 
-Beyond the 100mSv and 100m3 limits, you are free to design the spacecraft as you choose.  Will you make the solar-facing part of the hull thicker?  Will you use a single layer of aluminum or multiple layers of different materials?  Will you stipulate that astronauts must be small in order to reduce their surface area?  Considerations for creativity will be given in the scoring.
+Beyond the 100mSv and 100m3 limits, you are free to design the spacecraft as you choose.  You can use a cylinder, sphere, or other shape.  You can use a single material or layers of different materials.  Considerations for creativity will be given in the scoring.
 
 ### The dataset
 The dataset consists of particle fluences from galactic cosmic rays and solar protons.   Conversion formulas between fluence and absorbed dose are also provided.
@@ -35,4 +35,7 @@ Points will be awarded for three criteria:
 3.	People’s choice – 10 points.  A ballot box for voting will be open to workshop participants throughout the day after the presentation session.
 
 ### The starter pack
-We have provided you with a starter pack to quickly get started with the challenge, and to provide more detailed information. This is available from this GitHub repository https://github.com/Mode2025/Data-Challenge/ . 
+We have provided you with datasets to quickly get started with the challenge, and a pdf document to provide more detailed information. Particle fluences are available in the "fluences" folder.  The introduction slides are named "Mode 2025 Data Challenge.pdf".
+
+### Submissions
+Participants must send an email to the workshop organizers at mode-workshop-organizers@cern.ch .  They will then send you an invitation to the discord server.
