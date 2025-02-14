@@ -31,7 +31,7 @@ We have a dedicated Slack channel to discuss the data challenge. Please ask the 
 ### The scoring
 Points will be awarded for three criteria:
 1.	Technical score – 10 points.  This is determined by the mass of your solution.  Lighter spacecraft will be awarded more points.
-2.	Creativity and explanation for your solution – 10 points
+2.	Creativity and execution – 10 points
 3.	People’s choice – 10 points.  A ballot box for voting will be open to workshop participants throughout the day after the presentation session.
 
 ### The starter pack
