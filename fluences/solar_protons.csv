@@ -1,5 +1,5 @@
 Solar proton flux
-Energy (MeV/nuc),Differential flux (cm-2.s-1.(MeV/nuc)-1),Integral flux (cm-2.s-1)   
+Energy (MeV/nuc),Differential flux (cm-2.s-1.(MeV/u)-1),Integral flux (cm-2.s-1)   
 1.000e+00,1.1285e+03,1.9420e+03
 3.000e+00,2.6877e+02,7.6399e+02
 5.000e+00,9.5861e+01,4.7544e+02
