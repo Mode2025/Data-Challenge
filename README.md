@@ -26,7 +26,7 @@ The competition opens on 14 February 2025 and submissions must be uploaded by 23
 
 Multiple submissions are allowed and encouraged; only your latest submission will be scored.  You may work in teams or individually, and otherwise discuss amongst yourselves. Please note, however, that only one copy of each prize can be awarded to an entry, whether it be from a team or individual. Additionally, when making a submission from a team, please nominate someone to submit in their own name.
 
-We have a dedicated Slack channel to discuss the data challenge. Please ask the organizers for an invitation, and then search for the “2025-design-challenge” channel. Post here any questions you have, or ideas you want to share. We will also use this to post important information and updates.
+We have a dedicated discord server to discuss the data challenge.  Please ask the organizers for an invitation.  Post there any questions you have, or ideas you want to share.  We will also use the server to post important information and updates.
  
 ### The scoring
 Points will be awarded for three criteria:
