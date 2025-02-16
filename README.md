@@ -5,7 +5,7 @@ The challenge is open to everyone, however only workshop participants will be el
 A scenario for an initial manned mission to Mars involves a 400-day cruise phase to and from the planet.  The cruise phase poses a significant problem due to the cumulative effects of exposure to cosmic and solar radiation.  This challenge remains unresolved.
  
 ### The physics
-Without the protection of earth's magnetosphere, the astronauts aboard future missions to Mars will be shielded only by the spacecraft itself.  A dose of 100 milliSieverts per year is known to increase cancer risk and other illnesses.  Radiation workers on earth are limited to 50mSv per year.  Six months aboard the ISS exposes a crewmember to 72mSv, dangerously close to the limit.
+Without the protection of earth's magnetosphere, the astronauts aboard future missions to Mars will be shielded only by the spacecraft itself.  A dose of 100 milliSieverts per year is known to increase cancer risk and other illnesses.  Radiation workers on earth are limited to 50 mSv per year.  Six months aboard the ISS exposes a crewmember to 72 mSv, dangerously close to the limit.
 
 The aluminum walls of the ISS provide some protection.  However, thin aluminum shielding causes a net increase in interplanetary space due to absorption and emission of secondary radiation.  Thicker shielding would be needed to block secondary radiation.
 
