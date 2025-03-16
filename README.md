@@ -20,13 +20,14 @@ Beyond the 100mSv and 100m3 limits, you are free to design the spacecraft as you
 The dataset consists of particle fluences from galactic cosmic rays and solar protons.   Conversion formulas between fluence and absorbed dose are also provided.
  
 ### The organization
-The competition will run prior to the workshop, in order to allow you to focus on the presentations during the workshop. There will be a dedicated session to present the various solutions.  Prizes will be awarded at the end of the workshop.
+The competition is open to submissions prior to the workshop.  There will be a dedicated session for solutions at the workshop, with prizes awarded on the final day.
 
-The competition opens on 14 February 2025 and submissions must be uploaded by 23:59:59 CET on 8 June 2025. Details of the submission process are in the data challenge repository.
+The competition opens on 16 March 2025.  Submissions must be uploaded by 23:59:59 CEST on 8 June 2025. Details of the submission process can be found in the data challenge repository.
 
-Multiple submissions are allowed and encouraged; only your latest submission will be scored.  You may work in teams or individually, and otherwise discuss amongst yourselves. Please note, however, that only one copy of each prize can be awarded to an entry, whether it be from a team or individual. Additionally, when making a submission from a team, please nominate someone to submit in their own name.
+You may work in teams or individually.  Discussion with other participants, as well as multiple submissions, are allowed and encouraged.  When making a submission from a team, please specify a team representative.
 
-We have a dedicated discord server to discuss the data challenge.  Please ask the organizers for an invitation.  Post there any questions you have, or ideas you want to share.  We will also use the server to post important information and updates.
+We have a dedicated discord server to discuss the data challenge.  Please ask the organizers for an invitation. Post there any questions you have, or ideas you want to share.  We’ll also use the server to post important information and updates.
+
  
 ### The scoring
 Points will be awarded for three criteria:
@@ -35,7 +36,7 @@ Points will be awarded for three criteria:
 3.	People’s choice – 10 points.  A ballot box for voting will be open to workshop participants throughout the day after the presentation session.
 
 ### The starter pack
-We have provided you with datasets to quickly get started with the challenge, and a pdf document to provide more detailed information. Particle fluences are available in the "fluences" folder.  The introduction slides are named "Mode 2025 Data Challenge.pdf".
+We have provided you with datasets to quickly get started with the challenge, a sample code to import this data into python, and a pdf document to provide more detailed information. Particle fluences are available in the "fluences" folder.  The introduction slides are named "Mode 2025 Data Challenge.pdf".
 
 ### Submissions
 Participants must send an email to the workshop organizers at mode-workshop-organizers@cern.ch .  They will then send you an invitation to the discord server.
