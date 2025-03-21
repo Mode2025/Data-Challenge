@@ -22,7 +22,7 @@ The dataset consists of particle fluences from galactic cosmic rays and solar pr
 ### The organization
 The competition is open to submissions prior to the workshop.  There will be a dedicated session for solutions at the workshop, with prizes awarded on the final day.
 
-The competition opens on 16 March 2025.  Submissions must be uploaded by 23:59:59 CEST on 8 June 2025. Details of the submission process can be found in the data challenge repository.
+The competition opens on 21 March 2025.  Submissions must be uploaded by 23:59:59 CEST on 8 June 2025. Details of the submission process can be found in the data challenge repository.
 
 You may work in teams or individually.  Discussion with other participants, as well as multiple submissions, are allowed and encouraged.  When making a submission from a team, please specify a team representative.
 
